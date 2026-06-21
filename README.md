@@ -1,82 +1,45 @@
-# 📰 Fake News Headline Generator
+# 💻 Practice Projects
 
-A fun Python project that generates random fake news headlines using the `random` module. Each headline is created by combining a random subject, action, and place or thing, resulting in humorous and unexpected news stories.
+Welcome to my Practice Projects repository!
 
-## 🚀 Features
+This repository contains the projects, coding exercises, and practice work that I complete as part of my journey toward becoming a Data Analyst. The goal of this repository is to strengthen my problem-solving skills, improve my programming knowledge, and build a strong portfolio.
 
-* Generates random fake news headlines
-* Interactive command-line interface
-* Uses Python's built-in `random` module
-* Allows users to generate multiple headlines in one session
-* Beginner-friendly Python project
+## 🚀 Skills Covered
 
-## 🛠️ Technologies Used
+* Python
+* SQL
+* PostgreSQL
+* NumPy
+* Pandas
+* Data Analysis
+* Problem Solving
+* Git & GitHub
 
-* Python 3
-* Random Module
+## 📂 Projects
 
-## 📂 Project Structure
+### 📰 Fake News Headline Generator
 
-```text
-Fake-News-Headline-Generator
-│
-├── fake_news.py
-└── README.md
-```
+A Python project that generates random and funny fake news headlines using the `random` module.
 
-## ▶️ How to Run
+### 📈 More Projects Coming Soon...
 
-1. Clone this repository:
+I will continue adding new projects as I learn and practice new technologies.
 
-```bash
-git clone https://github.com/your-username/Fake-News-Headline-Generator.git
-```
+## 🎯 Learning Goals
 
-2. Navigate to the project folder:
+* Build strong Python programming skills
+* Master SQL for Data Analytics
+* Learn Data Analysis using Python libraries
+* Create real-world portfolio projects
+* Prepare for internships and placements
 
-```bash
-cd Fake-News-Headline-Generator
-```
+## 👩‍💻 About Me
 
-3. Run the Python file:
+Hi, I'm **Jivika Kaushik**.
 
-```bash
-python fake_news.py
-```
+I am a BCA student and an aspiring Data Analyst currently learning Python, SQL, PostgreSQL, Data Analysis, and related technologies.
 
-## 💡 Sample Output
+## ⭐ Repository Purpose
 
-```text
-BREAKING NEWS : Virat Kohli celebrates at red fort
+This repository serves as a collection of my learning journey, practice projects, and hands-on exercises. Each project helps me improve my technical skills and gain practical experience.
 
-Do you want another headline? (yes/no)
-```
-
-```text
-BREAKING NEWS : A Mumbai Cat declares war on a plate of samosa
-
-Do you want another headline? (yes/no)
-```
-
-## 🎯 Learning Outcomes
-
-Through this project, I practiced:
-
-* Lists in Python
-* Random selection using `random.choice()`
-* While loops
-* User input handling
-* String formatting with f-strings
-
-## 📌 Future Improvements
-
-* Add more subjects, actions, and places
-* Save generated headlines to a file
-* Add categories such as Sports, Politics, and Entertainment
-* Create a GUI version using Tkinter
-
-## 👩‍💻 Author
-
-**Jivika Kaushik**
-
-Aspiring Data Analyst | Learning Python, SQL, and Data Analytics
