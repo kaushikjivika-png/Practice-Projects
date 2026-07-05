@@ -17,22 +17,52 @@ This repository contains the projects, coding exercises, and practice work that 
 
 ## 📂 Projects
 
+## 📂 Projects
+
 ### 📰 Fake News Headline Generator
 
-A Python project that generates random and funny fake news headlines using the `random` module.
+A beginner Python project that generates random and funny fake news headlines using the `random` module.
 
-### 📈 More Projects Coming Soon...
+**Skills Used:**
+- Python
+- Random Module
+- Functions
+- String Formatting
 
-I will continue adding new projects as I learn and practice new technologies.
+---
+
+### 🌦️ Weather Data Analysis using NumPy
+
+A data analysis project that reads a real-world weather dataset using NumPy and performs data cleaning, statistical analysis, and city-wise weather insights.
+
+**Features:**
+- Dataset Overview
+- Missing Value Detection
+- Duplicate Detection & Removal
+- Temperature Statistics
+- Humidity Analysis
+- Wind Speed Analysis
+- Pressure Analysis
+- Hottest & Coldest City
+- Highest Humidity & Wind Speed City
+
+**Skills Used:**
+- Python
+- NumPy
+- CSV File Handling
+- Data Cleaning
+- Data Analysis
+- Git & GitHub
 
 ## 🎯 Learning Goals
 
-* Build strong Python programming skills
-* Master SQL for Data Analytics
-* Learn Data Analysis using Python libraries
-* Create real-world portfolio projects
-* Prepare for internships and placements
-
+- Strengthen Python programming skills
+- Master SQL for Data Analysis
+- Learn NumPy, Pandas, Matplotlib, and Power BI
+- Build real-world Data Analysis projects
+- Improve problem-solving and analytical thinking
+- Continuously grow my GitHub portfolio
+- 
 ## 👩‍💻 About Me
 
 Hi, I'm **Jivika Kaushik**.
