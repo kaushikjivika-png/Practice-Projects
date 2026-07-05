@@ -38,13 +38,15 @@ python fake_news.py
 
 ## 📸 Output Screenshots
 
+## 📸 Output Screenshots
+
 ### Output 1
 
-![Output 1](images/output1.png)
+![Output 1](02_images/output1.png)
 
 ### Output 2
 
-![Output 2](images/output2.png)
+![Output 2](02_images/output2.png)
 
 ## 💡 Sample Output
 
