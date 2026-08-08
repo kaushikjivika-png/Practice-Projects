@@ -59,9 +59,8 @@ weather_data = np.genfromtxt(
 )
 print("\nWeather Dataset Loaded Successfully!")
 
-# =====================================
 # DATA UNDERSTANDING
-# =====================================
+
 print("\n========== DATASET OVERVIEW ==========")
 rows,columns = weather_data.shape
 print("Total Rows : ",rows)
@@ -105,9 +104,7 @@ print("\n========== DATA AFTER CLEANING ==========")
 weather_data = np.unique(weather_data, axis=0)
 print("Rows After Removing Duplicates :", weather_data.shape[0])
 
-# =====================================
 # BASIC STATISTICS
-# =====================================
 
 temperature = weather_data[:,2].astype(float)
 wind_speed = weather_data[:, 4].astype(float)
