@@ -17,8 +17,6 @@ This repository contains the projects, coding exercises, and practice work that 
 
 ## 📂 Projects
 
-## 📂 Projects
-
 ### 📰 Fake News Headline Generator
 
 A beginner Python project that generates random and funny fake news headlines using the `random` module.
@@ -54,6 +52,36 @@ A data analysis project that reads a real-world weather dataset using NumPy and 
 - Data Analysis
 - Git & GitHub
 
+---
+
+### 🛒 E-Commerce Sales Analysis using SQL
+
+A SQL-based data analysis project using the Brazilian E-Commerce dataset to analyze sales performance, customer behavior, product performance, seller activity, payments, and order trends.
+
+**Features:**
+- Database Design & Table Creation
+- Primary & Foreign Key Relationships
+- Data Exploration
+- Customer Analysis
+- Order & Sales Analysis
+- Product Performance Analysis
+- Seller Performance Analysis
+- Payment Analysis
+- Revenue Analysis
+- Order Status Analysis
+- Business-focused SQL Queries
+
+**Skills Used:**
+- PostgreSQL
+- SQL
+- Joins
+- Aggregate Functions
+- GROUP BY & HAVING
+- Subqueries
+- CASE Statements
+- Data Analysis
+- Database Design
+  
 ## 🎯 Learning Goals
 
 - Strengthen Python programming skills
