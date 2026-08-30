@@ -90,7 +90,15 @@ A SQL-based data analysis project using the Brazilian E-Commerce dataset to anal
 - Build real-world Data Analysis projects
 - Improve problem-solving and analytical thinking
 - Continuously grow my GitHub portfolio
-- 
+
+## About These Projects
+
+These projects represent my early learning and practice stage.
+
+While building them, I referred to tutorials, examples, and learning resources to understand concepts, project structure, and implementation. The goal was to gain hands-on practice and become comfortable working with different tools and techniques.
+
+These projects are learning-focused and were not intended to represent fully independent portfolio work. As I progress, I am focusing on building more projects independently and developing my own problem-solving approach.
+
 ## 👩‍💻 About Me
 
 Hi, I'm **Jivika Kaushik**.
